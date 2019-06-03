@@ -10,3 +10,4 @@ tcllauncher
 tcllauncher-support.tcl
 libTcllauncher.so*
 .*.swp
+configure
